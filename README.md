@@ -52,8 +52,8 @@ El algoritmo calcula las distancias mínimas desde un nodo de origen hacia los d
 | Archivo | Descripción |
 |---|---|
 | `CaminoMinimo_Dijkstra.py` | Aplicación desarrollada en Python con interfaz gráfica mediante Tkinter. |
-| `nombre_del_informe.pdf` | Informe académico que contiene el fundamento teórico, el diagrama de flujo y los resultados de la implementación. |
-| `nombre_de_la_imagen.png` | Captura de pantalla de la aplicación en funcionamiento. |
+| `Informe-Camino-Minimo-DIJKSTRA_portafolio.pdf` | Informe académico que contiene el fundamento teórico, el diagrama de flujo y los resultados de la implementación. |
+| `Evidencia_CaminoMinimo` | Captura de pantalla de la aplicación en funcionamiento. |
 
 ## Tecnologías utilizadas
 
