@@ -4,7 +4,7 @@ Proyecto académico desarrollado para el curso de **Matemática Computacional** 
 
 El proyecto fue realizado de manera grupal. Por motivos de privacidad, esta versión pública del informe muestra únicamente mi nombre.
 
-![Programa en funcionamiento](nombre_de_la_imagen.png)
+
 
 ## Descripción del proyecto
 
